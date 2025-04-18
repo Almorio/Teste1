@@ -1,0 +1,1 @@
+/**Inverta os caracteres de uma string usando .split(), .reverse() e .join(). */
